@@ -1,0 +1,10 @@
+variabila e o eticheta (container)
+boolean 1 bit
+Literals
+
+Parametru de tip int 
+
+----------------
+
+build the JAR
+JAR cvfm main.jar Manifest.txt *.class
